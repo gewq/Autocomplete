@@ -55,7 +55,7 @@ void Node::setIsEndWord()
 
 void Node::resetIsEndWord()
 {
-	isEndWord_ = false;
+  isEndWord_ = false;
 }
 
 
